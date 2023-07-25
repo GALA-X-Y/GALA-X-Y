@@ -14,6 +14,10 @@ Besides, I am also :
 - 3D Model Designer (Blender)
 - PC Hardware Support
 
+If you hope to find me, please contact me thru :
+- Discord \- galaxy4846
+- Email \- hugolaw08@gmail.com
+
 ***
 [^1]: BC BOT is a 24/7 Discord Bot with Chinese and English interface
 <!---
