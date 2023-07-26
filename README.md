@@ -10,7 +10,7 @@ I am an amateur programmer who know :
 
 Besides, I am also :
 - R&D Director of [BC BOT](https://discord.gg/nTxrYyUAQu) [^1]
-- Developer of Word Stats
+- Developer of [Word Stats](https://github.com/GALA-X-Y/WordStats)
 - 3D Model Designer (Blender)
 - PC Hardware Support
 
