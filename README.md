@@ -12,7 +12,7 @@ Besides, I am also :
 - R&D Director of [BC BOT™](https://discord.gg/nTxrYyUAQu) [^1]
 - Developer of [Word Stats](https://github.com/GALA-X-Y/WordStats)
 - 3D Model Designer (Blender)
-- PC Hardware Support
+- PC Hardware Consultant
 
 If you hope to find me, please contact me thru :
 - Discord \- galaxy4846
