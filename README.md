@@ -16,7 +16,7 @@ Besides, I am also :
 
 If you hope to find me, please contact me thru :
 - Discord \- galaxy4846
-- Email \- hugolaw08@gmail.com
+- Email \- me@hugolaw.com.hk
 
 ***
 [^1]: BC BOT is a 24/7 Discord Bot with Chinese and English interface
