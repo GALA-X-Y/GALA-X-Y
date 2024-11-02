@@ -1,5 +1,4 @@
-# Hi! I am GALA-X-Y! 
-Or you may call me **Hugo**.  
+# Hi! I am Hugo! 
 
 I am an amateur programmer who know :
 
